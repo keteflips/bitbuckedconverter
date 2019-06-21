@@ -7,7 +7,7 @@ Process:
 
 a) Run bitbuckedconverter.py -f console.txt 
 
-b) Run bitbuckedconverter.py -f console.txt -e <IP of your Bridge>
+b) Run bitbuckedconverter.py -f console.txt -e IP_of_your_Bridge
 
 In case of a) each line of console.txt will be converted into a B0 string and displayed
 
